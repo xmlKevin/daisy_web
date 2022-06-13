@@ -158,4 +158,6 @@ QQ群 3：767524537
 
 [LGPL-3.0](https://github.com/xmlKevin/daisy/blob/master/LICENSE)
 
+linux 下安装依赖要用 sudo npm i
+
 Copyright (c) 2021 xmlKevin
